@@ -1,0 +1,44 @@
+Documento de configuración para ejecutar el proyecto.
+
+SQL Server Management Studio
+•Abrir SQL Server Management Studio.
+
+•Presione el apartado File en el menú.
+
+•Luego Open -> File
+
+•Busque el archivo adjunto en la carpeta del proyecto, llamado “SQLQueryProyectoCS” y ábralo.
+
+•Ejecute los comando por secciones (recomendable), cada sección esta descrita en el archivo o puede seleccionar todo y ejecutarlo si así lo desea.
+
+•Refrescar o actualizar la base de datos.
+
+Una vez ejecutados y verificado que todas la tablas y procedimientos se hayan creado con éxito puede ejecutar el programa en Visual Studio 2022 sin problemas.
+
+
+
+Visual Studio 2022
+Pasos en Visual Studio 2022:
+
+•Abrir Visual Studio 2022.
+
+•Presionar en el apartado de: abrir un proyecto o una solución.
+
+•Buscar la carpeta donde tenga guardado el proyecto.
+
+•Abrir el archivo llamado “ReparacionesDB-FINAL.sln”
+
+
+IMPORTANTE: para que el programa se conecte sin problemas a la base de datos, debe hacer lo siguiente:
+•Ir a la sección “Explorador de soluciones” normalmente en la parte derecha del programa.
+
+•Expanda la capa de datos.
+
+•Diríjase a la carpeta “SQL” y expándala.
+
+•Abrir la clase llamada “ConnectionDB”
+
+•Cambiar el nombre del server por el nombre de su server (dicho nombre lo encuentra en las propiedades del server, el name), en la instancia de la conexión a la base de datos, en esta parte: (server=DormitorioPC\\SQLEXPRESS; database=DB_POE_FINAL; Integrated Security=true");
+
+•En caso de que no pueda conectarse, debe agregarle otro “\” en el nombre, ejemplo: si su server se llama miServer\SQLEXPRESS, agregándole “\” quedaría así: miServer\\SQLEXPRESS.
+Una vez seguido los pasos, el proyecto se abrirá en el Visual Studio, para ejecutarlo abra cualquier clase del proyecto y busque la opción de “Ejecutar” o bien presione F5 en el teclado.

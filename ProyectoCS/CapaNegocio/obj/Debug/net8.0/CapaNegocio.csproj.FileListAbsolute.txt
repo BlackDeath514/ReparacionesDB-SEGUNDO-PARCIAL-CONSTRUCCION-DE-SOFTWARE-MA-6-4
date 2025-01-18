@@ -1,0 +1,120 @@
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll

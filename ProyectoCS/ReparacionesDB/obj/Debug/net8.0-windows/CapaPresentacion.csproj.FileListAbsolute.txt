@@ -1,0 +1,270 @@
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.Login.resources
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.Login.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarEquipo.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.Login.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarEquipo.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.Login.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarEquipo.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.Login.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarEquipo.resources
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.frmLogin.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.frmLogin.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarEquipo.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.exe
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.deps.json
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.runtimeconfig.json
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaPresentacion.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaNegocio.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\bin\Debug\net8.0-windows\CapaDatos.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\ReparacionesDB.frmLogin.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmPrincipal.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarCliente.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarEquipo.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarMantenimiento.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.frmRegistrarTecnico.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.Properties.Resources.resources
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.AssemblyInfo.cs
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPres.61CA7C38.Up2Date
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\refint\CapaPresentacion.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll

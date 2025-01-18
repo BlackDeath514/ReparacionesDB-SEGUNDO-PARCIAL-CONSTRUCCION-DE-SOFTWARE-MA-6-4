@@ -1,0 +1,96 @@
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\arsen\Desktop\VARIOS\UNIVERSIDAD\QUINTO SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS\PRIMER PARCIAL\PROYECTOS\ReparacionesDB\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB\ReparacionesDB\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\arsen\Desktop\proyecto final finañ\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Dhamaris Calero\Downloads\ReparacionesDB_-_Copy[1]\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ReparacionesDB - Copy\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\maxxi\OneDrive\Escritorio\ProyectoCS\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
