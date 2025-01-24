@@ -121,7 +121,7 @@ namespace CapaDatos.Interface
                 new Parametros("cliente_id", SqlDbType.Int, clienteId.ToString())
             };
 
-            return obj_bd.EjecutarSPNoQuery("SP_CREAR_CELULARR", lista_parametros);
+            return obj_bd.EjecutarSPNoQuery("SP_CREAR_CELULAR", lista_parametros);
         }
 
         /// <summary>

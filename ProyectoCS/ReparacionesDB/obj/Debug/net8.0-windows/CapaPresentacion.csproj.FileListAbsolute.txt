@@ -268,3 +268,4 @@ D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\Proye
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.pdb
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\ReparacionesDB\obj\Debug\net8.0-windows\CapaPresentacion.sourcelink.json

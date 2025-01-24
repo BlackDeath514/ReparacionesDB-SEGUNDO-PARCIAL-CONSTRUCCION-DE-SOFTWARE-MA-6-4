@@ -94,3 +94,4 @@ D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\Proye
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaDatos\obj\Debug\net8.0\CapaDatos.sourcelink.json

@@ -118,3 +118,4 @@ D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\Proye
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
 D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+D:\Usuarios\Cristopher Pionce\Escritorio\PROYECTO 2DO PARCIAL REPARACIONES\ProyectoCS\CapaNegocio\obj\Debug\net8.0\CapaNegocio.sourcelink.json

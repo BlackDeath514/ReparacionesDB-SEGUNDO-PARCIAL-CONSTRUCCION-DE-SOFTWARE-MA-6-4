@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C62C922-A45D-49B1-9F81-3F549FBC61B8}|CapaDatos\\CapaDatos.csproj|d:\\usuarios\\cristopher pionce\\escritorio\\proyecto 2do parcial reparaciones\\proyectocs\\capadatos\\interface\\interfacereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C62C922-A45D-49B1-9F81-3F549FBC61B8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\interface\\interfacereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C62C922-A45D-49B1-9F81-3F549FBC61B8}|CapaDatos\\CapaDatos.csproj|d:\\usuarios\\cristopher pionce\\escritorio\\proyecto 2do parcial reparaciones\\proyectocs\\capadatos\\sql\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C62C922-A45D-49B1-9F81-3F549FBC61B8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sql\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1855ADB1-7502-4F6D-BFD3-9F0C5A6EC126}|ReparacionesDB\\CapaPresentacion.csproj|D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\reparacionesdb\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1855ADB1-7502-4F6D-BFD3-9F0C5A6EC126}|ReparacionesDB\\CapaPresentacion.csproj|solutionrelative:reparacionesdb\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1855ADB1-7502-4F6D-BFD3-9F0C5A6EC126}|ReparacionesDB\\CapaPresentacion.csproj|D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\reparacionesdb\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1855ADB1-7502-4F6D-BFD3-9F0C5A6EC126}|ReparacionesDB\\CapaPresentacion.csproj|solutionrelative:reparacionesdb\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855ADB1-7502-4F6D-BFD3-9F0C5A6EC126}|ReparacionesDB\\CapaPresentacion.csproj|D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\reparacionesdb\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1855ADB1-7502-4F6D-BFD3-9F0C5A6EC126}|ReparacionesDB\\CapaPresentacion.csproj|solutionrelative:reparacionesdb\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "interfaceReparacion.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\CapaDatos\\Interface\\interfaceReparacion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Interface\\interfaceReparacion.cs",
+              "ToolTip": "D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\CapaDatos\\Interface\\interfaceReparacion.cs",
+              "RelativeToolTip": "CapaDatos\\Interface\\interfaceReparacion.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:44:25.41Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ConnectionDB.cs",
               "DocumentMoniker": "D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\CapaDatos\\SQL\\ConnectionDB.cs",
               "RelativeDocumentMoniker": "CapaDatos\\SQL\\ConnectionDB.cs",
               "ToolTip": "D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\CapaDatos\\SQL\\ConnectionDB.cs",
               "RelativeToolTip": "CapaDatos\\SQL\\ConnectionDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T05:09:22.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Usuarios\\Cristopher Pionce\\Escritorio\\PROYECTO 2DO PARCIAL REPARACIONES\\ProyectoCS\\ReparacionesDB\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "ReparacionesDB\\frmPrincipal.cs",
